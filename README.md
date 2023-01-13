@@ -1,0 +1,2 @@
+# ReversePhising
+In our cybersecurity GitHub repository, you'll find resources to protect yourself from phishing scams. We have guides on how to identify and avoid phishing attempts, newsletters with the latest phishing threats and best practices to stay safe. Additionally, you will find tools that can help you in phishing simulation and training for employees. Keep yourself and your organization safe from phishing with our repository.
